@@ -1,0 +1,111 @@
+{
+  "name": "Anokye Ferguson Adu",
+  "alternate_names": ["Anokye Jezreel Adu Ferguson"],
+  "Role": [
+    "Full Stack Software Engineer",
+    "Ai/ML Engineer"
+   
+  ],
+  "email": "blueinv73@gmail.com",
+  "skills": {
+  
+    "backend": ["Laravel (PHP)", "FastAPI (Python)"],
+
+    "frontend": [
+      "HTML & CSS",
+      "JavaScript (ES6+) / TypeScript",
+      "React.js / React Native",
+      "Responsive UI Development"
+    ],
+
+    "mobile": ["React Native", "Expo", "Cross-platform App Development"],
+
+    "databases": ["MongoDB", "MySQL", "SQL"],
+
+    "tools": ["Git", "GitHub", "Docker", "Linux", "Figma", "Postman", "Vitest", "Jest"],
+
+    "cloud": ["AWS", "Vercel", "Netlify", "Render"],
+
+    "AI": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "AI Model Integration"
+    ]
+  },
+  "gender": "Male",
+  "Experience": [
+    "Ferguson has 4 years of experience in software development, with a strong focus on frontend technologies and a solid foundation in backend systems. He has worked on various projects, ranging from web applications to mobile apps, and has a keen interest in AI engineering. Ferguson is passionate about building scalable, user-centric applications and continuously stays up to date with emerging technologies.",
+    {
+      "Company": "Orcons Systems LTD",
+      "Position": "Full-Stack Engineer",
+      "Year": "Jan 2025 – March 2025",
+      "Type": "Internship",
+      "Contribution": "Worked with React.js and PHP"
+    },
+    {
+      "Company": "ABCD Systems LTD",
+      "Position": "Full-Stack Engineer and AI Engineer",
+      "Year": "April 2025 – 2026",
+      "Type": "Contract",
+      "Contribution": "Worked with Vue.js, TypeScript, Laravel, and AI model integration using Python and LLMs"
+    },
+    {
+      "Company": "Tarantulla Co.",
+      "Position": "Mobile Developer",
+      "Year": "June 2025 – November 2025",
+      "Type": "Contract",
+      "Contribution": "Worked with React Native (Expo), Figma, and Laravel"
+    },
+    {
+      "Company": "ChiosBits",
+      "Position": "Mobile Developer",
+      "Year": "October 2025 – November 2025",
+      "Type": "Equity-Based",
+      "Contribution": "Worked with React Native "
+    }
+  ],
+
+  "projects": [
+    "Ai Chatbot",
+    "Pensions Software",
+    "Church Manager",
+    "E-commerce Web App",
+    "Ride Sharing App",
+    "Personal Portfolio Website",
+    "website for a local businesses",
+    "AI-powered Chatbot for Customer Support"
+  ],
+  "Description": "Anokye Ferguson Adu is a Full Stack Software Engineer with a primary focus on AI/ML, complemented by strong expertise in backend systems and frontend development. He is passionate about building scalable, user-centric applications and continuously stays up to date with emerging technologies. With a versatile skill set spanning modern web development and artificial intelligence, Anokye brings both creativity and technical depth to every project, making him a valuable asset to any team.",
+  "Education": [
+    {
+      "High School": "Jachie-Pramso Senior High School",
+      "Years": "2022 - 2025",
+      "Course": "General Science"
+    },
+    {
+      "University": "University Of The People",
+      "Years": "2025 - 2029",
+      "Course": "Computer Science"
+    }
+  ],
+
+  "Date of Birth": "September 21, 2005",
+  "girl friend": "No",
+  "Religion": "Christianity",
+  "Church Denomination": "Pentecostal",
+  "Church Name": "Redeemed Christian Church of God",
+  "marital status": "celebrate single",
+  "Hobbies": [
+    "Coding",
+    "Writing",
+    "Watching Movies",
+    "Listening to Music",
+    "Gaming"
+  ],
+  "Languages": ["English", "Twi"],
+  "Location": "Accra, Ghana",
+  "favorite engagement": "Tech Conferences and Hackathons",
+  "LinkedIn": "https://www.linkedin.com/in/anokye-ferguson-adu-2b0069306/",
+  "GitHub": "https://github.com/jezreelferguson",
+  "Family": "The Anokye Family"
+}
