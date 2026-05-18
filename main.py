@@ -1,7 +1,15 @@
 from fastapi import FastAPI, HTTPException
 from schemas.question import QuestionRequest
 from ai.llm import ask_ai
+from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+    allow_credentials=True
+)
 
 @app.get("/")
 def welcome():
