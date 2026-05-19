@@ -18,7 +18,7 @@ load_dotenv()
 with open('data/profile.json', 'r') as file:
     profile = json.load(file)
 
-llm = ChatGroq(api_key=os.getenv("GROQ_API_KEY"), model="llama-3.3-70b-versatile")
+llm = ChatGroq(api_key=os.getenv("GROQ_API_KEY"), model="openai/gpt-oss-120b")
 
 # --- RAG Setup ---
 # Convert profile data to documents
