@@ -27,7 +27,12 @@ docs = [Document(page_content=doc_text, metadata={"source": "profile"})]
 
 # Initialize embeddings and vector store
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-vectorstore = Chroma.from_documents(docs, embeddings, persist_directory="./chroma_db")
+vectorstore = Chroma.from_documents(
+    docs,
+    embeddings,
+    persist_directory="./chroma_db",
+    ids=["profile"]
+)
 retriever = vectorstore.as_retriever()
 
 # --- Memory Setup ---
