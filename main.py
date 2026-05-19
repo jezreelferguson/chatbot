@@ -19,11 +19,12 @@ def welcome():
 async def ask_question(req: QuestionRequest):
 
     try:
-        answer = await ask_ai(req.question)
+        answer = await ask_ai(req.question, req.session_id)
 
         return {
             "success": True,
             "question": req.question,
+            "session_id": req.session_id,
             "answer": answer
         }
 
